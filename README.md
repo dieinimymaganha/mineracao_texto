@@ -29,3 +29,7 @@
 * Processamento de linguagem natural *PLN*
 	* Interpretação sintática e semântica das frases
 	* Fazer o computador enternder textos escritos em linguagem humana
+
+
+##### [Machine Learning - Text Classification]
+[Conteudo do curso](https://www.youtube.com/watch?v=mTcxsfJhkNQ&list=PL62G310vn6nHZ1d9QjFNgsJ6r5ABySjj4)
