@@ -1,0 +1,3 @@
+# mineracao_texto
+
+Test
