@@ -22,3 +22,10 @@
 
 > Sumarização de documentos
 
+> Abordagens da mineração de textos
+
+* Estatística
+	* Frequência dos termos, ignorando informações semânticas
+* Processamento de linguagem natural *PLN*
+	* Interpretação sintática e semântica das frases
+	* Fazer o computador enternder textos escritos em linguagem humana
