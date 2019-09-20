@@ -33,3 +33,14 @@
 
 ##### [Machine Learning - Text Classification]
 [Conteudo do curso](https://www.youtube.com/watch?v=mTcxsfJhkNQ&list=PL62G310vn6nHZ1d9QjFNgsJ6r5ABySjj4)
+
+
+
+> Ferramentas:
+
+ - Weka
+ - Google Prediction
+ - Amazon ML
+ - Microsoft Azure ML
+ - IBM Watson
+ 
